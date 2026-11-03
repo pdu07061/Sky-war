@@ -1,0 +1,6 @@
+{
+  "name": "천공대전: 발할라의 날개",
+  "description": "부유하는 천공 요새와 비공정 함대를 지휘하여 창공을 지배하는 실시간 전략 공중 대전 시뮬레이션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
